@@ -11,3 +11,4 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 
 ### Week 2: Regression with Multiple Input Variables
 - Python, Numpy, and Vectorization (29 July 2024 - 30 July 2024)
+- Multiple Variable Linear Regression (31 July 2024)
