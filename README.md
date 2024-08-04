@@ -17,3 +17,6 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Linear Regression using Scikit-Learn [Normal] (1 August 2024)
 - Linear Regression using Scikit-Learn [GD] (1 August 2024)
 - Assignment 1: Practice Lab : Linear Regression (1 August 2024)
+
+### Week 3: Classification []
+- Classification
