@@ -2,8 +2,8 @@
 
 I will be using this repo in order to replicate and run the jupyter notebooks used in this specialization for each course.
 
-## Course 1: Supervised Machine Learning: Regression and Classification [18 July - ]
-### Week 1: Introduction to Machine Learning [18 July - 29 July]
+## Course 1: Supervised Machine Learning: Regression and Classification [18 July - 2024]
+### Week 1: Introduction to Machine Learning [18 July - 29 July 2024]
 - Python and Jupyter Notebooks (I just read this ; no need to replicate)
 - Model Representation (20 July 2024)
 - Cost Function (21 July 2024 - 23 July 2024)
@@ -18,7 +18,7 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Linear Regression using Scikit-Learn [GD] (1 August 2024)
 - Assignment 1: Practice Lab : Linear Regression (1 August 2024)
 
-### Week 3: Classification [4 August -]
+### Week 3: Classification [4 August - 2024]
 - Classification [4 Aug]
 - Sigmoid Function and Logistic Regression [5 Aug]
 - Decision Boundary [5 Aug]
