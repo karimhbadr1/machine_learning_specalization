@@ -2,7 +2,7 @@
 
 I will be using this repo in order to replicate and run the jupyter notebooks used in this specialization for each course.
 
-## Course 1: Supervised Machine Learning: Regression and Classification
+## Course 1: Supervised Machine Learning: Regression and Classification [18 July - ]
 ### Week 1: Introduction to Machine Learning [18 July - 29 July]
 - Python and Jupyter Notebooks (I just read this ; no need to replicate)
 - Model Representation (20 July 2024)
@@ -26,3 +26,5 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Cost Function for Logistic Regression [5 Aug]
 - Gradient Descent for Logistic Regression [5 Aug]
 - Logistic Regression using Scikit-Learn [5 Aug]
+- Overfitting [5 Aug - 6 Aug]
+- Regularized Cost and Gradient [6 Aug]
