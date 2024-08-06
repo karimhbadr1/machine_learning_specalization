@@ -18,13 +18,14 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Linear Regression using Scikit-Learn [GD] (1 August 2024)
 - Assignment 1: Practice Lab : Linear Regression (1 August 2024)
 
-### Week 3: Classification [4 August - 2024]
-- Classification [4 Aug]
-- Sigmoid Function and Logistic Regression [5 Aug]
-- Decision Boundary [5 Aug]
-- Logistic Loss [5 Aug]
-- Cost Function for Logistic Regression [5 Aug]
-- Gradient Descent for Logistic Regression [5 Aug]
-- Logistic Regression using Scikit-Learn [5 Aug]
-- Overfitting [5 Aug - 6 Aug]
-- Regularized Cost and Gradient [6 Aug]
+### Week 3: Classification [4 August - 6 August 2024]
+- Classification (4 Aug)
+- Sigmoid Function and Logistic Regression (5 Aug)
+- Decision Boundary (5 Aug)
+- Logistic Loss (5 Aug)
+- Cost Function for Logistic Regression (5 Aug)
+- Gradient Descent for Logistic Regression (5 Aug)
+- Logistic Regression using Scikit-Learn (5 Aug)
+- Overfitting (5 Aug - 6 Aug)
+- Regularized Cost and Gradient (6 Aug)
+- Assignment 1: Practical Lab: Logistic Regression (6 Aug)
