@@ -36,3 +36,6 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Coffee Roasting in Tenserflow (8 Aug)
 - Coffee Roastig in Numpy (8 Aug)
 - Assignment 1: Neural Networks for Handwritten Digit Recognition, Binary Classification (8 Aug-9 Aug)
+
+### Week 2: Neural Network Training [9 Aug - 2024]
+- ReLU activation (9 Aug)
