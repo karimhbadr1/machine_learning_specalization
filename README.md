@@ -39,3 +39,5 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 
 ### Week 2: Neural Network Training [9 Aug - 2024]
 - ReLU activation (9 Aug)
+- Softmax function (14 Aug)
+- Multi-class classification (14 Aug)
