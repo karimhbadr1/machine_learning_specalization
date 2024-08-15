@@ -37,7 +37,13 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Coffee Roastig in Numpy (8 Aug)
 - Assignment 1: Neural Networks for Handwritten Digit Recognition, Binary Classification (8 Aug-9 Aug)
 
-### Week 2: Neural Network Training [9 Aug - 2024]
+### Week 2: Neural Network Training [9 Aug - 15 Aug 2024]
 - ReLU activation (9 Aug)
 - Softmax function (14 Aug)
 - Multi-class classification (14 Aug)
+- Derivatives (15 Aug)
+- Back propagation using a computation graph (15 Aug)
+- Assigment 1 : Practical Lab: Neural Networks for Handwritten Digit Recognition, Multiclass (15 Aug)
+
+### Week 3: Advice for applying machine learning [ - 2024]
+- 
