@@ -45,5 +45,5 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Back propagation using a computation graph (15 Aug)
 - Assigment 1 : Practical Lab: Neural Networks for Handwritten Digit Recognition, Multiclass (15 Aug)
 
-### Week 3: Advice for applying machine learning [ - 2024]
+### Week 3: Advice for applying machine learning [16 Aug - 2024]
 - 
