@@ -46,4 +46,5 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Assigment 1 : Practical Lab: Neural Networks for Handwritten Digit Recognition, Multiclass (15 Aug)
 
 ### Week 3: Advice for applying machine learning [16 Aug - 2024]
-- 
+- Model Evaluation and Selection (17 Aug)
+- Diagnosing Bias and Variance (17 Aug)
