@@ -3,6 +3,7 @@
 I will be using this repo in order to replicate and run the jupyter notebooks used in this specialization for each course.
 
 ## Course 1: Supervised Machine Learning: Regression and Classification [18 July - 6 Aug 2024]
+
 ### Week 1: Introduction to Machine Learning [18 July - 29 July 2024]
 - Python and Jupyter Notebooks (I just read this ; no need to replicate)
 - Model Representation (20 July 2024)
@@ -30,7 +31,8 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Regularized Cost and Gradient (6 Aug)
 - Assignment 1: Practical Lab: Logistic Regression (6 Aug)
 
-## Course 2: Advanced Learning Algorithms [7 Aug - 2024]
+## Course 2: Advanced Learning Algorithms [7 Aug - 30 Aug 2024]
+
 ### Week 1: Neural Networks [7 Aug - 9 Aug 2024]
 - Neurons and layers (7 Aug)
 - Coffee Roasting in Tenserflow (8 Aug)
@@ -54,3 +56,8 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 - Decision Trees (30 Aug)
 - Tree Ensembles (30 Aug)
 - Assignment 1: Decision Trees (30 Aug)
+
+## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning [7 October-]
+
+### Week 1: Unsupervised Learning [7 October-]
+- K-means Clustering (7 October) 
