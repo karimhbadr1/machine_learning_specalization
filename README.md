@@ -59,5 +59,8 @@ I will be using this repo in order to replicate and run the jupyter notebooks us
 
 ## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning [7 October-]
 
-### Week 1: Unsupervised Learning [7 October-]
+### Week 1: Unsupervised Learning [7 October- 8 October]
 - K-means Clustering (7 October) 
+
+### Week 2: Recommender Systems [13 October -]
+- 
